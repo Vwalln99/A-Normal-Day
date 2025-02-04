@@ -1,4 +1,4 @@
-A Normal Day
+#A Normal Day
 Ein textbasiertes Abenteuerspiel, bei dem jede Entscheidung zählt.
 📖 Überblick
 A Normal Day ist ein minimalistisches, aber fesselndes textbasiertes Abenteuerspiel, in dem die Spieler:innen einen scheinbar „normalen“ Tag erleben. Doch jede Entscheidung, die du triffst, formt die Geschichte und führt zu einem von fünf einzigartigen Enden. Das Spiel basiert auf einem einfachen Prinzip: Es gibt kein Richtig oder Falsch – nur deine Entscheidungen und deren Konsequenzen. Das Spiel bietet:
@@ -7,7 +7,6 @@ A Normal Day ist ein minimalistisches, aber fesselndes textbasiertes Abenteuersp
     Ein Moral-System, das deine Entscheidungen widerspiegelt, ohne das Ende zu bestimmen.
     Fünf verschiedene Enden für eine hohe Wiederspielbarkeit.
 
-Jetzt spielen: A Normal Day
 🎮 Gameplay
 
     Startbildschirm
