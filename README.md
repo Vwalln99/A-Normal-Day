@@ -33,7 +33,7 @@ Jetzt spielen: A Normal Day
 
 🚀 So spielst du
 
-    Öffne das Spiel in deinem Browser: A Normal Day.
+    Öffne das Spiel in deinem Browser:[ A Normal Day](https://vwalln99.github.io/A-Normal-Day/).
     Gib deinen Namen auf dem Startbildschirm ein.
     Lies jede Situation aufmerksam durch und wähle deine Antwort.
     Triff weiterhin Entscheidungen, bis du eines der Enden erreichst.
@@ -47,3 +47,5 @@ Für Feedback oder Anfragen wende dich an den Entwickler:
     GitHub-Profil: Vwalln99
 
 Tauche ein in A Normal Day – wo jede Entscheidung zählt!
+
+(Design: https://www.deviantart.com/dxrkshxdows)
