@@ -1,11 +1,49 @@
-# A-Normal-Day
+A Normal Day
+Ein textbasiertes Abenteuerspiel, bei dem jede Entscheidung zählt.
+📖 Überblick
+A Normal Day ist ein minimalistisches, aber fesselndes textbasiertes Abenteuerspiel, in dem die Spieler:innen einen scheinbar „normalen“ Tag erleben. Doch jede Entscheidung, die du triffst, formt die Geschichte und führt zu einem von fünf einzigartigen Enden. Das Spiel basiert auf einem einfachen Prinzip: Es gibt kein Richtig oder Falsch – nur deine Entscheidungen und deren Konsequenzen. Das Spiel bietet:
 
-# In diesem Spiel gibt es kein richtig oder falsch, nur eine Regel: Steh zu deinen Entscheidungen und lebe mit den Konsequenzen!
+    Eine dynamische Erzählung, die sich an deine Entscheidungen anpasst.
+    Ein Moral-System, das deine Entscheidungen widerspiegelt, ohne das Ende zu bestimmen.
+    Fünf verschiedene Enden für eine hohe Wiederspielbarkeit.
 
-A Normal Day ist ein textbasiertes Spiel, indem man einen ganz „normalen“ Tag erlebt.
-Die Spielemechanik ist simpel: Zuerst hat man einen Startscreen mit Titel, Grafik und dem Input für den Spielernamen, der Name kann während des Spiels nicht geändert werden. Nachdem der Name eingegeben wurde, beginnt schon der Tag. Der Teil der Geschichte, indem man sich befindet, wird in einer Textbox beschrieben, darunter befinden sich die Auswahlmöglichkeiten für die gegebenen Situationen. Durch das Anklicken der Antwort wird man zum dementsprechenden Teil der Story weitergeleitet, bis zum Ende. Es gibt 5 verschiedene Enden, die durch die Auswahl der Antworten erreicht werden können. 
-Es gibt kein Zurück mehr, jede Entscheidung ist endgültig.
-Wenn du mit allen Enden fertig bist, kannst du auf den Reset-Button klicken, so gelangst du wieder ins Hauptmenü um ein neues Spiel zu starten, sonst satrtes du immer bei den ersten Entscheidungen. Die eingeblendeten Grafiken sind nicht klickbar. Das eingebaute Moralsystem definiert nicht das Ende der Geschichte, es zeigt nur an, im welchen moralischen Gebiet du dich befindest.
+Jetzt spielen: A Normal Day
+🎮 Gameplay
 
+    Startbildschirm
+        Gib deinen Namen ein (dieser kann später nicht mehr geändert werden).
+        Sieh dir den Titel und die dazugehörigen Grafiken an.
+    Die Geschichte beginnt
+        Lies die aktuelle Situation in einer Textbox.
+        Wähle aus mehreren Optionen, um die Geschichte voranzutreiben.
+        Jede Entscheidung führt dich zu einem neuen Abschnitt der Erzählung.
+    Enden
+        Entdecke eines von fünf möglichen Enden basierend auf deinen Entscheidungen.
+        Nutze den Reset-Button, um ins Hauptmenü zurückzukehren und ein neues Spiel zu starten.
+    Moral-System
+        Verfolgt deine moralische Ausrichtung während des Spiels.
+        Bestimmt nicht das Ende, sondern zeigt lediglich deinen moralischen Weg an.
 
-playable at https://vwalln99.github.io/A-Normal-Day/
+🛠️ Features
+
+    Einfache Mechanik: Intuitive Klick-Interaktionen – keine Eingaben erforderlich.
+    Eindrucksvolle Grafiken: Nicht klickbare Bilder unterstützen das Storytelling.
+    Wiederspielbarkeit: Entdecke alle fünf Enden durch unterschiedliche Entscheidungen.
+    Reset-Funktion: Starte das Spiel schnell neu, um neue Wege zu erkunden.
+
+🚀 So spielst du
+
+    Öffne das Spiel in deinem Browser: A Normal Day.
+    Gib deinen Namen auf dem Startbildschirm ein.
+    Lies jede Situation aufmerksam durch und wähle deine Antwort.
+    Triff weiterhin Entscheidungen, bis du eines der Enden erreichst.
+    Nutze den Reset-Button, um erneut zu spielen und andere Ergebnisse zu entdecken.
+
+🌟 Warum solltest du spielen?
+A Normal Day bietet einen frischen Ansatz für textbasierte Abenteuerspiele, indem es sich auf moralische Ambivalenz und eine von den Spieler:innen gesteuerte Erzählung konzentriert. Da es keinen „richtigen“ Weg gibt, kannst du deine eigene Geschichte erkunden und über die Konsequenzen deiner Entscheidungen nachdenken.
+📧 Kontakt
+Für Feedback oder Anfragen wende dich an den Entwickler:
+
+    GitHub-Profil: Vwalln99
+
+Tauche ein in A Normal Day – wo jede Entscheidung zählt!
